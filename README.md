@@ -1,8 +1,7 @@
 # Readme
 # Hey 👋, This is Kritika Pandey
 ### About me 🤓
-A am tech enthusiastic person who loves to solve problems. You will find me on coding platforms like 
-Codeforces and Codechef. I am also working on Web Development and  Machine Learning
+A am tech enthusiastic person who loves to solve problems. You will find me on coding platform. I am also working on Web Development and  Machine Learning
 
 **Skills:** Cp || Web Development || Deep Learning
 
