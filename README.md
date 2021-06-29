@@ -1,7 +1,7 @@
 # Readme
 # Hey 👋, This is Kritika Pandey
 ### About me 🤓
-A am tech enthusiastic person who loves to solve problems. You will find me on coding platforms where I grill over data structures and algorithms. I am also working on Web Development and  Machine Learning
+Looking out for roles in Software and Development,Data Analytics etc.
 
 **Skills:** Cp || Web Development || Deep Learning
 
