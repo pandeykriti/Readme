@@ -3,7 +3,7 @@
 ### About me 🤓
 Looking out for roles in Software and Development,Data Analytics etc.
 
-**Skills:** Cp || Web Development || Deep Learning
+
 
 - 💼 I am currently working Yelp-like website
 
